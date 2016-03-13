@@ -34,6 +34,7 @@ The second data set (data2) includes the average of the observations of the mean
 These transformations have been applied:
 
 * Train and test sets have been merged
+* Features labels have been added
 * Subject and activity data have been added
 * The activity labels have been added instead of the activity numbers
 * The mean and std deviation of the features have been selected
